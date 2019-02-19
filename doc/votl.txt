@@ -986,7 +986,7 @@ tag On this line, do
 Clock~
 
 The clock plugin is a little imitation of a nice feature from emacs org mode.
-The clockpugin allows to track times and summarize them up in the parent
+The clockplugin allows to track times and summarize them up in the parent
 heading.
 
 To enable this plugin uncomment the following line in |vimoutlinerrc|:
